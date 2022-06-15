@@ -34,7 +34,7 @@ export class LivroDeleteComponent implements OnInit {
     })
   }
 
-  delete(id: String): void {
+  delete(): void {
     this.service.delete(this.livro.id!).subscribe(() => {
       this.router.navigate([`categorias/${this.id_cat}/livros`]);
       this.service.mensagem(`Livro deletado com sucesso.`)
