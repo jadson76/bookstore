@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 c2c51e357964052639d11b47bb927833dffeba50 jadson76 <biojadson@gmail.com> 1654093949 -0300	commit (initial): initial commit
+c2c51e357964052639d11b47bb927833dffeba50 2f4cf5f19ac986a368333168e27ec69498abbbda jadson76 <biojadson@gmail.com> 1654095051 -0300	commit: Init do projeto
+2f4cf5f19ac986a368333168e27ec69498abbbda efa2b587f1b6e204e5a2d0b7e585d8a5fd003611 jadson76 <biojadson@gmail.com> 1654212584 -0300	commit: angular material
+efa2b587f1b6e204e5a2d0b7e585d8a5fd003611 7c01c169324d691e5123317b033b4b50518ff544 jadson76 <biojadson@gmail.com> 1654218789 -0300	commit: Header, Footer, nav
+7c01c169324d691e5123317b033b4b50518ff544 d971b2f62ec4d6ac0cabcc037814a1631f3d4b80 jadson76 <biojadson@gmail.com> 1654256908 -0300	commit: Home
+d971b2f62ec4d6ac0cabcc037814a1631f3d4b80 2c3b8cddbfaaa4f4d29b2fb6525d1ad3bead29d3 jadson76 <biojadson@gmail.com> 1654392220 -0300	commit: add modulo categoria-read, categoriaService e model.
+2c3b8cddbfaaa4f4d29b2fb6525d1ad3bead29d3 4c0bb69d99aaa9fc637c3dd0d260c8b5827cdccf jadson76 <biojadson@gmail.com> 1654437965 -0300	commit: Add componente categoriaCreate
+4c0bb69d99aaa9fc637c3dd0d260c8b5827cdccf 488bcf0696417b51a1aa6c855b38cc144f4a7500 jadson76 <biojadson@gmail.com> 1654440374 -0300	commit: Add cancel tocategoriaCreate
+488bcf0696417b51a1aa6c855b38cc144f4a7500 35676afaa28dcc89a44e073e996144fe64224e5d jadson76 <biojadson@gmail.com> 1654459304 -0300	commit: Add componente deleteCategoria
+35676afaa28dcc89a44e073e996144fe64224e5d b0ffdcc8f7109ec47cb25e87bb84fc3d367dfbf7 jadson76 <biojadson@gmail.com> 1654462520 -0300	commit: Add componente updateCategoria
+b0ffdcc8f7109ec47cb25e87bb84fc3d367dfbf7 217d7da3582aeca1841bcca2f1ef11a86c8855a8 jadson76 <biojadson@gmail.com> 1654909494 -0300	commit: Componentes de Livro
+217d7da3582aeca1841bcca2f1ef11a86c8855a8 0cbf1d1a85819eee52711896a6603aa60015ccc1 jadson76 <biojadson@gmail.com> 1655207898 -0300	commit: Add Create e Update para Livro
+0cbf1d1a85819eee52711896a6603aa60015ccc1 4eb7fa0cf70055995992de762f29d84e44dac91d jadson76 <biojadson@gmail.com> 1655253304 -0300	commit: Add delete para o livro.
+4eb7fa0cf70055995992de762f29d84e44dac91d ce16ec8592027b0e8009bb9b9f5fb9c5ce59a284 jadson76 <biojadson@gmail.com> 1655255286 -0300	commit: add read para livro
+ce16ec8592027b0e8009bb9b9f5fb9c5ce59a284 a9430b69d16c8b10c288b6d3cc5482ea478d96d5 jadson76 <biojadson@gmail.com> 1655255326 -0300	commit: correção
